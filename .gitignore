@@ -1,0 +1,12 @@
+# ignore lock files
+package-lock.json
+
+# Dependency directories
+node_modules
+
+*.iml
+*.xml
+
+# JBrains IDE extensions
+
+.idea
