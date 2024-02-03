@@ -10,5 +10,5 @@ $ npm install
 ### Run
 
 ```bash
-$ =test:* npm start
+$ DEBUG=test:* npm start
 ```
