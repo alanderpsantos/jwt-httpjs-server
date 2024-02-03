@@ -6,3 +6,7 @@ node_modules
 
 *.iml
 *.xml
+
+# JBrains IDE extensions
+.idea
+
