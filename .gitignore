@@ -10,3 +10,5 @@ node_modules
 # JBrains IDE extensions
 .idea
 
+# certificate directory
+certs
